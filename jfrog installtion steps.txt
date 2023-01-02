@@ -15,3 +15,5 @@ when it is showing successfully
 copy the public ip and paste it on browser alongwith portno 8082
 
 a jfrog page will come
+
+do in mobaxtreme
